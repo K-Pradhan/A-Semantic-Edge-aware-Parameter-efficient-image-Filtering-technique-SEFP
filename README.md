@@ -1,5 +1,5 @@
-# Title of the paper- A semantic edge-aware parameter efficient image filtering technique,
- Authors-  Kunal Pradhan and Swarnajyoti Patra.
+Title of the paper- A semantic edge-aware parameter efficient image filtering technique,
+Authors-  Kunal Pradhan and Swarnajyoti Patra.
 This paper is accepted in Computers&Graphics journal. It is a MATLAB implementation in Windows 11.
 
 
