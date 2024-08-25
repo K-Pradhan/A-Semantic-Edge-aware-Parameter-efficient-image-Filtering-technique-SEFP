@@ -18,7 +18,7 @@ Open the main.m script from the saved folder
 
 Choose the input image ( by changing the image name in "imread" function, there are two images named 'cartoon' and 'bee' which results are shown in the paper, you can add additional image to the InputImages folder )
 
-Choose the parameter options - 'Widx' = 1 or 2 or 3 or 4 depending on the input image. (For details see the paper at- )
+Choose the parameter options - 'Widx' = 1 or 2 or 3 or 4 depending on the input image. (For details see the paper at- https://github.com/K-Pradhan/A-Semantic-Edge-aware-Parameter-efficient-image-Filtering-technique-SEFP-/blob/main/SEFP_PreprintAccepted_CAG_KP_SP.pdf)
 
 Run main.m script
 
