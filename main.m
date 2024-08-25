@@ -3,7 +3,7 @@
 Widx = 1; % Optins- Widx = 1/2/3/4 
 
 %% Read input image 
-[InputImage] = imread('InputImages/cartoon.jpg');
+[InputImage] = imread('InputImage/cartoon.jpg');
 figure;
 imshow(InputImage);
 % InputImage = imnoise(InputImage,'gaussian',0,0.05);
