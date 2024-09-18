@@ -19,7 +19,7 @@ W_edge = -w2:w2;
 [X_edge,Y_edge] = meshgrid(-w2:w2,-w2:w2);
 txt_end = 2;
 
-parfor pxl = 1:m*n
+for pxl = 1:m*n
     
 % if(c>1)
 % Inputbnd1 = InputImage(:,:,1);Inputbnd2 = InputImage(:,:,2);Inputbnd3 = InputImage(:,:,3);
